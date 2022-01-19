@@ -1,0 +1,24 @@
+{
+  "name": "js-requests-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "open http://localhost:4000 && nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/selenium-webdriver": "^4.0.16",
+    "axios": "^0.21.1",
+    "chromedriver": "^97.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "selenium-webdriver": "^4.1.1"
+  }
+}

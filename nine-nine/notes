@@ -1,0 +1,24 @@
+When adding character the section where you list likes separated by commas (limit 3) when you add character it list 3 Likes but only your first 2. And you don't get a error is you don't separated with commas.
+
+When you add new character as non-binary the gender non-binary doesn't have the "-" to separated it.
+
+When you add new character the age can be a negitive which should not be, you can't have a negitive age.
+
+You can still add new character without adding likes, and when you do it has a blank space and the other 2 spots are "undefined"
+
+
+
+
+What is the primary purpose for quality assurance?
+Quality assurance (QA) is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers.
+
+
+How can using acceptance criteria improve the overall quality of an application?
+Acceptance criteria synchronize the visions of the client and the development team. They ensure that everyone has a common understanding of the requirements.
+
+
+Why is planning such an important part of the testing process?
+A comprehensive approach to testing can reduce risk while finding problems earlier, which reduces time to fix, time to market, and overall cost.
+
+Why is it important to have clear steps to reproduce a bug included in a bug report?
+A clear bug title makes it easy to understand and the reader can know if the bug has been reported earlier or has been fixed.
